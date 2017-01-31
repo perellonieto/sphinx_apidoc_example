@@ -49,4 +49,4 @@ cd docs
 make html
 ```
 
-It will generate an index.html in _docs/\_build/index.html_
+It will generate an index.html in _docs/\_build/html/index.html_
