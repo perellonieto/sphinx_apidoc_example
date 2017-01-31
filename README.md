@@ -49,4 +49,4 @@ cd docs
 make html
 ```
 
-It will generate an index.html in _docs/\_build/index.html_
+It will generate an index.html in _docs/\_build/index.html_ and it should look somethink similar to this [index.html](https://htmlpreview.github.io/?https://github.com/perellonieto/sphinx_apidoc_example/blob/master/docs/_build/html/index.html)
